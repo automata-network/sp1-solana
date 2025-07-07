@@ -2393,7 +2393,7 @@ dependencies = [
 [[package]]
 name = "groth16-solana"
 version = "0.0.3"
-source = "git+https://github.com/sp1-patches/groth16-solana?branch=patch-v0.0.3#8850c04c3cbda326a65622dcf72f6ac6a2c60a4f"
+source = "git+https://github.com/automata-network/groth16-solana.git?branch=patch-v0.0.3#87d18ad713b4cc8672514f3a549491ca18c5ad7e"
 dependencies = [
  "ark-bn254",
  "ark-ec",
